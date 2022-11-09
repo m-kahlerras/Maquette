@@ -1,0 +1,185 @@
+.navbar{
+    height: 20px;
+    font-family: serif;
+}
+.faith{
+    color: darkgray;
+    position: absolute;
+    top: 25px;
+    left: 30px;
+    font-size: 35px;
+
+}
+ul{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 20px;
+    left: 30%;
+    
+}
+ul a {
+    color: darkgray;
+    font-size: 15px;
+}
+li img{
+    width: 10px;
+}
+.reseau{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 25px;
+    left: 113%;
+}
+.reseau img{
+    width:20px ;
+}
+body {
+    padding-top: 20px;
+}
+
+.carousel {
+  width: 100%;
+}
+
+.slide-box {
+  display: flex;
+  justify-content: space-between;
+}
+.img1{
+    width: 512px;
+    height: 550px;
+}
+.img2{
+    width: 400px;
+    margin-left: 130px;
+}
+.img3{
+    width: 400px;
+    height: 562px;
+    position: absolute;
+    left: 570px;
+    top: 710px;
+}
+.img4{
+    width: 400px;
+    position: absolute;
+    left: 995px;
+}
+.img5{
+    width: 400px;
+    margin-left: 145px;
+}
+.img6{
+    width: 400px;
+    position: absolute;
+    left: 995px;
+}
+.paragraphe{
+    position: absolute;
+    left: 130px;
+}
+.lestitres a{
+    position: absolute;
+    left: 695px;
+    color: darkgray;
+}
+.paragraphe a{
+    color: darkgray;
+}
+.lucides{
+    position: absolute;
+    left: 695px;
+    top: 100px;
+    color: darkgray;
+}
+.lorem{
+    position: absolute;
+    left: 670px;
+    bottom: 250px;
+    color: darkgray;
+}
+.suite{
+    background-color: rgb(217, 211, 211);
+    color: darkgray;
+    padding: 2px;
+    position: absolute;
+    left: 697px;
+    top: 300px;
+}
+.li2{
+    position: absolute;
+    left: 90px;
+    bottom: 395px;
+}
+.lucides2{
+    color: darkgray;
+}
+.lorem2{
+    color: darkgray;
+}
+.suite2{
+    background-color: rgb(217, 211, 211);
+    color: darkgray;
+    padding: 2px;
+    display: inline;
+}
+.numberpage a{
+    color: darkgray;
+}
+.fdroite{
+    width: 10px;
+    height: 10px;
+    
+}
+.bando img{
+    width: 230px;
+    height: 230px;
+    padding: 5px;
+}
+.bando{
+    background-color: bisque;
+}
+.insta{
+    width: 23px;
+    height: 23px;
+    background-color: bisque;
+    padding: 2px;
+}
+.suivez{
+    position: relative;
+    bottom: 120px;  
+    
+}
+.suivez p{
+    background-color: bisque;
+    font-size: 15px;
+    color: darkgrey;
+}
+.bannière img{
+    width: 90px;
+    height: 70px;
+}
+.bannière2 img{
+    width: 100px;
+    height: 100px;
+}
+.basdepage{
+    color: darkgray;
+}
+.basdepage a{
+    color: darkgray;
+}
+.bdp2 img{
+    width: 20px;
+    margin-left: 150px;
+}
+footer ul{
+    position: absolute;
+    left: 15px;
+    background-color: bisque;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
